@@ -1,2 +1,2 @@
-# run-android-emulator
+# Android emulator shell
 Run android emulator from terminal
